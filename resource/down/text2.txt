@@ -1,0 +1,11 @@
+<div class="gray_box">
+<p class="txt" style="line-height: 2em;">코로나19로 바뀐 팬데믹 세상은 어느덧 엔데믹을 준비하며 일상을 새롭게 재편한다. 접촉이 제한되었던 시간 동안 온라인을 통한 접속은 시행착오를 거치며 조금씩 또 다른 방식의 소통 경험을 제공하고 새로운 감각의 연결을 제안한다. 온라인은 장애예술에 어떻게 영향을 미치고 새로운 변화를 가져왔을까? 도전하고 실험하며 새로운 가상세계로 확장하는 다양한 활동을 해온 일곱 명의 예술가에게 온라인 예술활동의 의미와 가능성에 관해 서면으로 이야기를 들어보았다.</p>
+
+<div class="row" style="justify-content: center;margin-top: 2vw;align-items: center;">
+<p class="txt underline" style="line-height: 2em;">① 더 자유로운 창작의 장</p>
+
+<p>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</p>
+
+<p class="txt"><a href="https://ieum.or.kr/user/webzine/view.do?idx=388" style="line-height: 2em;" target="_blank">② 더 넓은 발표의 장</a></p>
+</div>
+</div>

@@ -1,0 +1,30 @@
+<div class="poster row" style="margin-top:2vw;">
+    <div class="img_wrap"><img alt="" src="/template/cms/user/images/sub/webzine/32/img_review_20220629_0604.jpg"></div>
+    
+    <div class="info">
+    <p class="tit" style="margin-top:0">렛츠 버딩!</p>
+    
+    <p class="custom">이성직 | 2022.5.19.~5.22. | 노들장애인야학-창경궁-노들장애인야학</p>
+    
+    <p class="cont" style="line-height:1.5em;">[2021년 예술텃밭 예술가 레지던시-기후변화]에서 쇼케이스로 개발한 프로그램을 듣고 보는 감각으로 나누어 관객을 만난다. 새에 관한 생각과 경험을 공유하고, 새의 몸을 흉내 내본다. 새를 찾기 위해 이동하거나 기다리고, 새를 보거나 듣거나 촬영하거나 녹음한다. 새의 이름을 조류도감에서 찾아보고, 새에 관해 글을 쓰거나 그림을 그리고, 찰흙으로 새를 만들어보기도 한다. 새와 우리를 연결하기 위한 이 모든 노력이 바로 ‘새 하는 중’이다. 관객이 다양한 감각으로 참여할 수 있는 공연을 만드는 예술가 이성직이 제작했다. 대표작으로 &lt;렛츠 버딩!&gt; &lt;만성탈수 간병하기&gt; &lt;감자전 www.gamja-geon.com&gt; &lt;김장하다&gt; &lt;아프면 낫는다 건강백세!&gt;가 있다.</p>
+    
+    <p class="cont" style="line-height:1.5em;">전시정보. &lt;렛츠 버딩!&gt; <a href="https://www.ieum.or.kr/user/show/view.do?idx=537"><u>바로가기(링크</u>)</a><br>
+    &lt;렛츠 버딩!&gt; <a class="underline" href="https://www.youtube.com/watch?v=4f9qKaL19gw" target="_blank">영상 보기(링크)</a></p>
+    </div>
+</div>
+
+
+<div class="poster row" style="margin-top:2vw;">
+    <div class="img_wrap"><img alt="" src="/template/cms/user/images/sub/webzine/32/img_review_20220629_0604.jpg"></div>
+    
+    <div class="info">
+    <p class="tit" style="margin-top:0">렛츠 버딩!</p>
+    
+    <p class="custom">이성직 | 2022.5.19.~5.22. | 노들장애인야학-창경궁-노들장애인야학</p>
+    
+    <p class="cont" style="line-height:1.5em;">[2021년 예술텃밭 예술가 레지던시-기후변화]에서 쇼케이스로 개발한 프로그램을 듣고 보는 감각으로 나누어 관객을 만난다. 새에 관한 생각과 경험을 공유하고, 새의 몸을 흉내 내본다. 새를 찾기 위해 이동하거나 기다리고, 새를 보거나 듣거나 촬영하거나 녹음한다. 새의 이름을 조류도감에서 찾아보고, 새에 관해 글을 쓰거나 그림을 그리고, 찰흙으로 새를 만들어보기도 한다. 새와 우리를 연결하기 위한 이 모든 노력이 바로 ‘새 하는 중’이다. 관객이 다양한 감각으로 참여할 수 있는 공연을 만드는 예술가 이성직이 제작했다. 대표작으로 &lt;렛츠 버딩!&gt; &lt;만성탈수 간병하기&gt; &lt;감자전 www.gamja-geon.com&gt; &lt;김장하다&gt; &lt;아프면 낫는다 건강백세!&gt;가 있다.</p>
+    
+    <p class="cont" style="line-height:1.5em;">전시정보. &lt;렛츠 버딩!&gt; <a href="https://www.ieum.or.kr/user/show/view.do?idx=537"><u>바로가기(링크</u>)</a><br>
+    &lt;렛츠 버딩!&gt; <a class="underline" href="https://www.youtube.com/watch?v=4f9qKaL19gw" target="_blank">영상 보기(링크)</a></p>
+    </div>
+</div>

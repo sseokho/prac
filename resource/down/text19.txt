@@ -1,0 +1,19 @@
+<div class="explain">
+<p class="txt f_bold" style="margin-bottom:1vw;">이음온라인 이용자 설문조사</p>
+
+<ul class="lists dot">
+	<li>조사기간 : 2021.11.24.(수)~12.9.(목) (16일간)</li>
+	<li>조사대상 : 이음온라인 이용자, 한국장애인문화예술원 SNS 이용자 등</li>
+	<li>응답자수 : 1,303명</li>
+	<li>조사방법 : 온라인 설문조사</li>
+</ul>
+
+<p class="txt f_bold" style="margin-bottom:1vw; margin-top:2vw;">전문가 패널조사</p>
+
+<ul class="lists dot">
+	<li>조사기간 : 2021.11.17.(수)~11.30.(화) (14일간)</li>
+	<li>조사대상 : 한국장애인문화예술원 이음온라인 기획위원 및 지원사업 평가위원</li>
+	<li>응답자수 : 29명</li>
+	<li>조사방법 : 이메일 조사</li>
+</ul>
+</div>

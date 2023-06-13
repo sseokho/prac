@@ -1,0 +1,2 @@
+<p class="txt f_bold"></p>
+<p class="txt"><strong></strong></p>
